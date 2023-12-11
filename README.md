@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yamuna PG</h1>
 <h3 align="center">Passion towards Full-Stack-Developer....</h3>
-<img src="C:\Users\pv Giri\Downloads\GitBg.png">
+<img src="[C:\Users\pv Giri\Downloads\GitBg.png](https://github.com/yamuna-FSD-Developer/yamuna-FSD-Developer/commit/7c1f1fc30278030a303f781b4bd5c3f698d6271f#commitcomment-134714090)">
 
 - 🌱 I’m currently learning **Full Stack Developer Course...**
 
