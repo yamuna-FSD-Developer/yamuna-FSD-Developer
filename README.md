@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Yamuna PG</h1>
 <h3 align="center">Passion towards Full-Stack-Developer....</h3>
+<img src="C:\Users\pv Giri\Downloads\GitBg.png">
 
 - 🌱 I’m currently learning **Full Stack Developer Course...**
 
