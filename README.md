@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Yamuna PG</h1>
 <h3 align="center">Passion towards Full-Stack-Developer....</h3>
+<img src ="./image/profile.gif" height= 50px width= 50px>
 
 
 - 🌱 I’m currently learning **Full Stack Developer Course...**
